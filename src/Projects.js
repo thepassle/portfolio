@@ -433,7 +433,6 @@ class Projects extends Component {
 
 export default Projects;
 
-//hier de projects inknallen somehow
 //en er moet een 'all' tag bij komen denk ik
 function generateLayout() {
   return _.map(_.range(0, 13), function (item, i) {
